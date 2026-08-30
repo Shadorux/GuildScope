@@ -15,6 +15,7 @@ GuildScope is a focused admin utility for server owners who do not want to manua
 - View Channel and Send Messages results per channel
 - Category/channel permission-drift detection
 - Red/black Shadorux interface
+<img width="1223" height="609" alt="image" src="https://github.com/user-attachments/assets/f3d6ad4f-44ca-4a93-b882-227c340af46a" />
 
 ## Discord setup
 
